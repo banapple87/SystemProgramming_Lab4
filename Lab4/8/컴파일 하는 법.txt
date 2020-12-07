@@ -1,0 +1,1 @@
+gcc -o 실행파일이름 파일이름.c $(pkg-config --cflags --libs gtk+-3.0)
